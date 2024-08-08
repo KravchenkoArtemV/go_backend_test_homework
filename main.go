@@ -1,4 +1,4 @@
-package main
+package main // стартую 5 спринт
 
 import (
 	"fmt"
